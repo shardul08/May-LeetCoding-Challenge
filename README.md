@@ -11,3 +11,8 @@ My solutions to the May LeetCoding Challenge
 [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%201/771_Jewels_and_Stones.cpp)
+
+### Day 3
+[Ransom Note](https://leetcode.com/problems/ransom-note/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%201/383_Ransom_Note.cpp)
