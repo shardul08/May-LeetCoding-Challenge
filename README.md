@@ -16,3 +16,8 @@ My solutions to the May LeetCoding Challenge
 [Ransom Note](https://leetcode.com/problems/ransom-note/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%201/383_Ransom_Note.cpp)
+
+### Day 4
+[Number Compliment](https://leetcode.com/problems/number-complement/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%201/476_Number_Complement.cpp)
