@@ -21,3 +21,8 @@ My solutions to the May LeetCoding Challenge
 [Number Compliment](https://leetcode.com/problems/number-complement/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%201/476_Number_Complement.cpp)
+
+### Day 5
+[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%201/387_First_Unique_Character_in_a_String.cpp)
