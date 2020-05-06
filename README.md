@@ -26,3 +26,8 @@ My solutions to the May LeetCoding Challenge
 [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%201/387_First_Unique_Character_in_a_String.cpp)
+
+### Day 6
+[Majority Element](https://leetcode.com/problems/majority-element/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%201/169_Majority_Element.cpp)
