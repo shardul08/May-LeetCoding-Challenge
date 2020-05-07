@@ -31,3 +31,8 @@ My solutions to the May LeetCoding Challenge
 [Majority Element](https://leetcode.com/problems/majority-element/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%201/169_Majority_Element.cpp)
+
+### Day 7
+[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%201/993_Cousins_in_Binary_Tree.cpp)
