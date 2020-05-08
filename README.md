@@ -36,3 +36,9 @@ My solutions to the May LeetCoding Challenge
 [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%201/993_Cousins_in_Binary_Tree.cpp)
+
+## Week 2
+### Day 8
+[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%202/1232_Check_If_It_Is_a_Straight_Line.cpp)
