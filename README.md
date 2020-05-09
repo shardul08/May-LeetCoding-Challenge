@@ -42,3 +42,8 @@ My solutions to the May LeetCoding Challenge
 [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%202/1232_Check_If_It_Is_a_Straight_Line.cpp)
+
+### Day 9
+[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%202/367_Valid_Perfect_Square.cpp)
