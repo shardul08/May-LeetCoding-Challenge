@@ -47,3 +47,8 @@ My solutions to the May LeetCoding Challenge
 [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%202/367_Valid_Perfect_Square.cpp)
+
+### Day 10
+[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%202/997_Find_the_Town_Judge.cpp)
