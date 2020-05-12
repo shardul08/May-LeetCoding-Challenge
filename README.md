@@ -57,3 +57,8 @@ My solutions to the May LeetCoding Challenge
 [Flood Fill](https://leetcode.com/problems/flood-fill/solution/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%202/733_Flood_Fill.cpp)
+
+### Day 12
+[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%202/540_Single_Element_in_a_Sorted_Array.cpp)
