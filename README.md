@@ -62,3 +62,8 @@ My solutions to the May LeetCoding Challenge
 [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%202/540_Single_Element_in_a_Sorted_Array.cpp)
+
+### Day 13
+[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%202/402_Remove_K_Digits.cpp)
