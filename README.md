@@ -78,3 +78,8 @@ My solutions to the May LeetCoding Challenge
 [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%203/918_Maximum_Sum_Circular_Subarray.cpp)
+
+### Day 16
+[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%203/328_Odd_Even_Linked_List.cpp)
