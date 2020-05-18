@@ -88,3 +88,8 @@ My solutions to the May LeetCoding Challenge
 [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%203/438_Find_All_Anagrams_in_a_String.cpp)
+
+### Day 18
+[Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%203/567_Permutation_in_String.cpp)
