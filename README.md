@@ -98,3 +98,8 @@ My solutions to the May LeetCoding Challenge
 [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%203/901_Online_Stock_Span.cpp)
+
+### Day 20
+[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%203/230_Kth_Smallest_Element_in_a_BST.cpp)
