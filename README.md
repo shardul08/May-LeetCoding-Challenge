@@ -103,3 +103,8 @@ My solutions to the May LeetCoding Challenge
 [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%203/230_Kth_Smallest_Element_in_a_BST.cpp)
+
+### Day 21
+[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%203/1277_Count_Square_Submatrices_with_All_Ones.cpp)
