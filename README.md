@@ -108,3 +108,9 @@ My solutions to the May LeetCoding Challenge
 [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%203/1277_Count_Square_Submatrices_with_All_Ones.cpp)
+
+## Week 4
+### Day 22
+[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%204/451_Sort_Characters_By_Frequency.cpp)
