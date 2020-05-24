@@ -119,3 +119,8 @@ My solutions to the May LeetCoding Challenge
 [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%204/986_Interval_List_Intersections.cpp)
+
+### Day 24
+[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%204/1008_Construct_Binary_Search_Tree_from_Preorder_Traversal.cpp)
