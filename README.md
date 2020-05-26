@@ -129,3 +129,8 @@ My solutions to the May LeetCoding Challenge
 [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%204/1035_Uncrossed_Lines.cpp)
+
+### Day 26
+[Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%204/525_Contiguous_Array.cpp)
