@@ -134,3 +134,8 @@ My solutions to the May LeetCoding Challenge
 [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%204/525_Contiguous_Array.cpp)
+
+### Day 27
+[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%204/886_Possible_Bipartition.cpp)
