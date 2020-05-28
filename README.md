@@ -139,3 +139,8 @@ My solutions to the May LeetCoding Challenge
 [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%204/886_Possible_Bipartition.cpp)
+
+### Day 28
+[Counting Bits](https://leetcode.com/problems/counting-bits/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%204/338_Counting_Bits.cpp)
