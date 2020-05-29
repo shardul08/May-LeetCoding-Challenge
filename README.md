@@ -144,3 +144,9 @@ My solutions to the May LeetCoding Challenge
 [Counting Bits](https://leetcode.com/problems/counting-bits/)
 
 [Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%204/338_Counting_Bits.cpp)
+
+## Week 5
+### Day 29
+[Course Schedule](https://leetcode.com/problems/course-schedule/)
+
+[Solution](https://github.com/shardul08/May-LeetCoding-Challenge/blob/master/Week%205/207_Course_Schedule.cpp)
